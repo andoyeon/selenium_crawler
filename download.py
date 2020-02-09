@@ -1,6 +1,5 @@
 import ssl
 from urllib.error import HTTPError
-
 from selenium import webdriver
 import re
 # 내장함수
